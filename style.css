@@ -206,7 +206,7 @@ li {
 @media (max-width: 568px) {
   body {
     flex-direction: column;
-    
+  
     /* flex-direction: column; */
   }
 
